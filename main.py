@@ -14,23 +14,25 @@ from pathlib import Path
 
 SUMMARY = '''Wednesday 11 November 2026
 
-The war with Iran wound down: on Monday, President Trump called it "militarily effectively over", and on Tuesday Secretary of State Marco Rubio said economic pressure had worked so well there was "really no need for major combat operations". But the Strait of Hormuz stayed shut for a 250th day, and Iran's negotiator said it would "never return" to its pre-war state.
+The war with Iran wound down: on Monday, President Trump called it "militarily effectively over", and on Tuesday Secretary of State Marco Rubio said economic pressure had worked so well there was "really no need for major combat operations". But the Strait of Hormuz stayed shut for over 250 days, and Iran's negotiator said it would "never return" to its pre-war state.
 
-In Abu Dhabi, Russia and Ukraine agreed their largest prisoner exchange of the war — more than 1,000 on each side, within two to three weeks — but no ceasefire, after the first trilateral talks in nine months. US envoys Jared Kushner and Steve Witkoff head to Moscow on Thursday to see Vladimir Putin.
+In Abu Dhabi, Russia and Ukraine agreed their largest prisoner exchange of the war — more than 1,000 on each side, in two to three weeks — but no ceasefire, after the first trilateral talks in nine months. US envoys Jared Kushner and Steve Witkoff head to Moscow on Thursday to see Vladimir Putin.
 
-In Gaza, Israeli strikes killed three people on Wednesday, including two brothers sheltering in a tent, and floods swamped about 70,000 tents sheltering displaced families.
+In Gaza, Israeli strikes killed three people on Wednesday, including two brothers sheltering in a tent, and floods swamped about 70,000 tents sheltering displaced families, with a million people at flood risk.
+
+In Sudan, UNICEF said drones caused two in three child casualties this year, as strikes on power stations left the grid near collapse.
 
 At COP31 in Turkey, UN chief Antonio Guterres warned the world was on "a path to destruction" unless climate action speeds up.
 
 Spain held its first general strike in 14 years: unions said four million workers stopped over housing costs, and marches in Madrid and Barcelona turned violent in the evening.
 
-China's trade surplus passed $1 trillion in the first ten months of 2026 — $1.04 trillion, a record pace.
+China's trade surplus passed $1 trillion in the first ten months — $1.04 trillion, a record pace.
 
-Anthropic, the maker of Claude, launched its IPO roadshow, offering 825 million shares at $70-$78 for a valuation of up to $1.4 trillion.
+Anthropic, the maker of Claude, launched its IPO roadshow, offering 825 million shares at $70-$78 for up to a $1.4 trillion valuation.
 
-In the US, hot inflation — consumer prices up 0.4% in October — lifted bets on a December Fed rate rise, the House shelved an effort to impeach defence secretary Pete Hegseth, and a 41-year-old US soldier was arrested in Britain on suspicion of spying for Russia.
+In the US, hot inflation — consumer prices up 0.4% in October — raised December Fed hike bets, the House shelved impeaching defence secretary Pete Hegseth, and a 41-year-old US soldier was arrested in Britain on suspicion of spying for Russia.
 
-And Elliptic said about $3.1 billion of the $6.3 billion stolen from Binance in October was still in the thieves' wallets, days after the exchange's finance chief stepped down.
+And Elliptic said about $3.1 billion of the $6.3 billion stolen from Binance in October was still in the thieves' wallets, days after its finance chief stepped down.
 '''
 
 TARGETS = (

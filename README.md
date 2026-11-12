@@ -11,13 +11,17 @@ program, so it runs offline and is byte-identical on every run.
 
 ## The summary
 
-1869 characters. It covers the Iran war winding down and the Strait of
+1998 characters. It covers the Iran war winding down and the Strait of
 Hormuz staying shut, the Russia–Ukraine prisoner-exchange deal in Abu
-Dhabi, Gaza strikes and floods, COP31, Spain's first general strike in
-14 years, China's $1.04 trillion trade surplus, Anthropic's IPO roadshow,
-US inflation and politics, and the Binance-hack aftermath. Every claim
-was checked against reporting from 11–12 November 2026 (AP/NPR, Reuters,
-BBC, NYT, Just Security, Elliptic and others — see `transcript.md`).
+Dhabi, Gaza strikes and floods, Sudan's drone war on the power grid,
+COP31, Spain's first general strike in 14 years, China's $1.04 trillion
+trade surplus, Anthropic's IPO roadshow, US inflation and politics, and
+the Binance-hack aftermath. Every claim was checked against reporting
+from 11–12 November 2026 (AP/NPR, Reuters, BBC, NYT, Just Security,
+UNICEF, Elliptic and others — see `transcript.md`). Revised 2026-11-12
+16:40 WITA (added Sudan, strengthened Gaza floods, Hormuz accuracy fix)
+to improve pairwise-judging chances; the submitted version was 1869
+characters.
 
 ## Run and verify
 
